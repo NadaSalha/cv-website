@@ -2,7 +2,7 @@
 
 
 
-let Array_img2=['../image/19.jpg','../image/20.jpg','../image/1.jpg','../image/2.jpg','../image/3.jpg','../image/4.jpg','../image/5.jpg','../image/bg8.jpg','../image/bg9.jpg','../image/18.jpg'];
+let Array_img2=['/public/image/19.jpg','/public/image/20.jpg','/public/image/1.jpg','/public/image/2.jpg','/public/image/3.jpg','/public/image/4.jpg','/public/image/5.jpg','/public/image/bg8.jpg','/public/image/bg9.jpg','/public/image/18.jpg'];
 let section_bg=document.getElementById('section_bg');
 
 // if(localStorage.getItem('bg-storage')!==null){
